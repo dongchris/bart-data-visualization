@@ -1,0 +1,856 @@
+Station,Year,num_riders,station,id,name,abbr,gtfs_latitude,gtfs_longitude,address,city,county,state,zipcode
+Richmond,1999, ,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2000,3441.462022640375,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2001,3976.6787148594376,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2002,4105.723577235773,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2003,3635.6194331983806,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2004,3263.5384615384614,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2005,3289.088,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2006,3250.736,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2007,3257.493927125506,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2008,3468.3790322580644,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2009,3467.9065040650407,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2010,3284.125,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2011,3425.52,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2012,3658.184,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2013,3897.927125506073,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2014,4038.7302904564317,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2015,4417.158536585366,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2016,4434.236947791164,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+Richmond,2017,4252.302419354839,RM,RM,Richmond,RICH,37.936887,-122.35316499999999,1700 Nevin Avenue,Richmond,contracosta,CA,94801
+El Cerrito Del Norte,1999,7537.189516129032,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2000,8362.053030197061,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2001,8962.172690763053,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2002,7745.650406504065,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2003,6863.384615384615,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2004,7279.344129554656,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2005,7398.464,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2006,7707.48,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2007,7830.700404858299,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2008,8212.59677419355,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2009,7970.959349593496,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2010,7351.850806451613,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2011,7510.52,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2012,7965.22,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2013,8494.113360323887,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2014,8687.497925311203,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2015,9027.605691056911,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2016,9228.907630522088,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Del Norte,2017,8958.5,EN,EN,El Cerrito del Norte,DELN,37.925655,-122.317269,6400 Cutting Blvd.,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,1999,3885.9919354838707,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2000,4094.7681904739106,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2001,3932.3052208835343,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2002,3733.040650406504,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2003,3677.267206477733,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2004,3695.97975708502,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2005,3704.34,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2006,3851.78,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2007,4087.31983805668,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2008,4268.3588709677415,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2009,4289.735772357723,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2010,4120.225806451613,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2011,4241.964,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2012,4463.648,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2013,4690.352226720648,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2014,4728.49377593361,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2015,4942.3943089430895,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2016,5131.2610441767065,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+El Cerrito Plaza,2017,5078.346774193548,EP,EP,El Cerrito Plaza,PLZA,37.9030588,-122.2992715,6699 Fairmount Avenue,El Cerrito,contracosta,CA,94530
+North Berkeley,1999,3268.8346774193546,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2000,3536.4640641109468,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2001,3876.261044176707,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2002,3515.548780487805,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2003,3253.8704453441296,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2004,3435.8056680161944,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2005,3511.74,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2006,3674.348,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2007,3819,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2008,3962.7862903225805,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2009,4019.1463414634145,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2010,3816.564516129032,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2011,3966.8,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2012,4222.716,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2013,4511.064777327935,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2014,4673.3153526970955,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2015,4915.308943089431,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2016,4864.646586345381,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+North Berkeley,2017,4676.028225806452,NB,NB,North Berkeley,NBRK,37.87404,-122.283451,1750 Sacramento Street,Berkeley,alameda,CA,94702
+Berkeley,1999,9729.34677419355,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2000,10196.602520219265,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2001,10768.819277108434,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2002,10875.227642276423,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2003,10555.060728744938,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2004,10528.886639676113,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2005,10393.484,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2006,10702.752,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2007,11175.412955465586,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2008,11813.806451612903,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2009,12019.471544715447,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2010,11317.34677419355,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2011,11749.348,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2012,12369.04,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2013,13130.773279352226,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2014,13326.896265560166,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2015,13743.886178861789,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2016,13747.847389558234,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Berkeley,2017,13252.34677419355,DC,DC,Downtown Berkeley,DBRK,37.869867,-122.268045,2160 Shattuck Avenue,Berkeley,alameda,CA,94704
+Ashby,1999,3647.907258064516,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2000,4084.8408975709735,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2001,4325.14859437751,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2002,4001.9430894308944,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2003,3718.7651821862346,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2004,3797.2834008097166,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2005,3933.044,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2006,4141.244,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2007,4286.44939271255,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2008,4521.971774193548,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2009,4354.80081300813,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2010,3942.6491935483873,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2011,4128.88,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2012,4603.284,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2013,4999.008097165992,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2014,5243.427385892116,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2015,5596.117886178862,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2016,5699.176706827309,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+Ashby,2017,5443.302419354839,AS,AS,Ashby,ASHB,37.853024,-122.26978000000001,3100 Adeline Street,Berkeley,alameda,CA,94703
+MacArthur,1999,5425.205645161291,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2000,6034.995231189399,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2001,6526.506024096386,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2002,5904.516260162602,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2003,5688.368421052632,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2004,6043.785425101215,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2005,6229.672,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2006,6622.14,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2007,6968.315789473684,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2008,7558.923387096775,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2009,7780.837398373984,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2010,7595.806451612903,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2011,8015.236,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2012,8575.96,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2013,9124.599190283401,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2014,8825.966804979253,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2015,9265.483739837398,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2016,9530.196787148594,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+MacArthur,2017,9400.379032258064,MA,MA,MacArthur,MCAR,37.828415,-122.267227,555 40th Street,Oakland,alameda,CA,94609
+19th Street Oakland,1999,7019.366935483871,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2000,7593.754858565781,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2001,8352.008032128513,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2002,8092.004065040651,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2003,7662.574898785425,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2004,7622.805668016194,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2005,7899.412,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2006,8416.432,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2007,8454.125506072874,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2008,8890.657258064517,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2009,9304.857723577235,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2010,9160.681451612903,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2011,9675.472,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2012,10636.48,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2013,11401.364372469636,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2014,11566.892116182573,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2015,12469.947154471545,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2016,13112.44578313253,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+19th Street Oakland,2017,13456.237903225807,19,19,19th St. Oakland,19TH,37.80787,-122.269029,1900 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,1999,10534.927419354839,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2000,11966.031053828914,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2001,12523.052208835341,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2002,12075.483739837398,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2003,12015.587044534414,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2004,11899.246963562753,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2005,11783.032,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2006,12037.744,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2007,12289.866396761134,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2008,12704.879032258064,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2009,12617.09756097561,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2010,11855.689516129032,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2011,12181.264,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2012,12578.196,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2013,12979.388663967611,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2014,13096.78838174274,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2015,13920.926829268292,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2016,14402.787148594378,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+12th Street / Oakland City Center,2017,13965.22177419355,12,12,12th St. Oakland City Center,12TH,37.803664000000005,-122.27160400000001,1245 Broadway,Oakland,alameda,CA,94612
+Lake Merritt,1999,3918.6935483870966,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2000,4238.56792397485,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2001,4656.092369477911,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2002,4573.09349593496,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2003,4644.27935222672,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2004,4802.854251012146,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2005,4756.08,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2006,5011.92,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2007,5305.599190283401,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2008,5703.826612903225,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2009,5847.556910569106,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2010,5490.165322580645,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2011,5617.884,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2012,6016.344,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2013,6441.068825910931,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2014,6719.580912863071,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2015,7369.30081300813,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2016,7393.449799196787,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Lake Merritt,2017,7196.520161290323,LM,LM,Lake Merritt,LAKE,37.797484000000004,-122.26560900000001,800 Madison Street,Oakland,alameda,CA,94607
+Fruitvale,1999,6712.419354838709,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2000,7115.93886914534,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2001,8227.738955823294,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2002,7194.731707317073,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2003,6293.242914979757,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2004,6232.3400809716595,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2005,6686.996,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2006,7048.352,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2007,7250.161943319838,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2008,7479.3588709677415,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2009,7317.235772357723,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2010,6892.866935483871,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2011,7179.888,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2012,7699.544,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2013,8126.688259109312,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2014,8285.60580912863,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2015,8638.78455284553,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2016,8670.144578313253,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Fruitvale,2017,8484.504032258064,FV,FV,Fruitvale,FTVL,37.774963,-122.224274,3401 East 12th Street,Oakland,alameda,CA,94601
+Coliseum / Oakland Airport,1999,5391.778225806452,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,1999,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2000,6154.585995876079,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2000,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2001,6861.698795180723,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2001,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2002,6670.930894308943,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2002,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2003,6588.206477732793,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2003,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2004,7307.862348178138,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2004,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2005,6920.868,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2005,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2006,7338.584,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2006,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2007,7812.631578947368,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2007,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2008,7492.270161290323,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2008,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2009,6919.276422764227,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2009,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2010,6190.689516129032,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2010,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2011,6563.772,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2011,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2012,6593.668,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2012,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2013,7809.27935222672,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2013,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2014,7818.54356846473,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2014,0,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2015,7748.833333333333,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2015,862.939024390244,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2016,7132.4738955823295,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2016,1545.9277108433735,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Coliseum / Oakland Airport,2017,6657.870967741936,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+Oakland Airport,2017,1517.358870967742,CC,CC,Coliseum/Oakland Airport,COLS,37.754006,-122.197273,7200 San Leandro St.,Oakland,alameda,CA,94621
+San Leandro,1999,4442.044354838709,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2000,4924.955519210536,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2001,5137.979919678715,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2002,4828.378048780488,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2003,4687.0890688259105,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2004,4803.400809716599,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2005,4835.836,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2006,4907.904,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2007,5117.615384615385,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2008,5281.6612903225805,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2009,5210.772357723577,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2010,4933.012096774193,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2011,5123.836,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2012,5366.94,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2013,5695.684210526316,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2014,5789.477178423236,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2015,6077.308943089431,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2016,6132.767068273092,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+San Leandro,2017,6250.842741935484,SL,SL,San Leandro,SANL,37.72261921,-122.1613112,1401 San Leandro Blvd.,San Leandro,alameda,CA,94577
+Bayfair,1999,4283.987903225807,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2000,4872.892480171099,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2001,5184.698795180723,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2002,4829.024390243902,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2003,4631.615384615385,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2004,4768.886639676113,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2005,4757.104,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2006,4995.192,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2007,5185.259109311741,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2008,5464.927419354839,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2009,5453.3130081300815,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2010,5039.157258064516,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2011,5154.284,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2012,5389.172,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2013,5739.392712550607,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2014,5796.759336099585,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2015,5971.70325203252,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2016,6003.807228915663,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Bayfair,2017,5846.387096774193,BF,BF,Bay Fair,BAYF,37.697185,-122.126871,15242 Hesperian Blvd.,San Leandro,alameda,CA,94578
+Hayward,1999,4295,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2000,4592.603188098831,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2001,4982.080321285141,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2002,4606.008130081301,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2003,4353.1255060728745,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2004,4261.210526315789,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2005,4320,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2006,4451.92,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2007,4553.044534412956,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2008,4669.629032258064,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2009,4640.747967479675,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2010,4275.1612903225805,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2011,4451.04,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2012,4838.004,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2013,5130.615384615385,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2014,5173.112033195021,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2015,5322.024390243902,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2016,5268.979919678715,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+Hayward,2017,5063.649193548387,HY,HY,Hayward,HAYW,37.670398999999996,-122.08796699999999,699 'B' Street,Hayward,alameda,CA,94541
+South Hayward,1999,2626.439516129032,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2000,2872.5158826260235,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2001,3099.5421686746986,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2002,2869.4756097560976,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2003,2761.8785425101214,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2004,2729.3481781376518,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2005,2757.24,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2006,2859.772,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2007,2893.732793522267,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2008,3075.5040322580644,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2009,2974.317073170732,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2010,2726.9193548387098,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2011,2966.496,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2012,3073.028,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2013,3254.7611336032387,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2014,3104.228215767635,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2015,3182.5528455284552,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2016,3101.3012048192772,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+South Hayward,2017,2993.935483870968,SH,SH,South Hayward,SHAY,37.63479954,-122.0575506,28601 Dixon Street,Hayward,alameda,CA,94544
+Union City,1999,3646.766129032258,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2000,3942.8432773784252,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2001,4187.3293172690765,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2002,3885.276422764228,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2003,3739.9433198380566,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2004,3718.7854251012145,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2005,3725.224,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2006,3897.656,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2007,4011.271255060729,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2008,3981.4959677419356,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2009,3840.743902439024,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2010,3786.733870967742,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2011,3853.1,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2012,4099.828,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2013,4473.562753036437,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2014,4625.4315352697095,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2015,4953.9796747967475,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2016,5107.815261044177,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Union City,2017,4958.447580645161,UC,UC,Union City,UCTY,37.591208,-122.017867,10 Union Square,Union City,alameda,CA,94587
+Fremont,1999,5423.403225806452,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2000,5928.550403841325,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2001,6300,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2002,5833.552845528456,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2003,5693.886639676113,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2004,5868.3400809716595,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2005,6098.82,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2006,6495.012,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2007,6818.14979757085,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2008,7163.8588709677415,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2009,7174.837398373984,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2010,6931.883064516129,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2011,7332.112,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2012,7701.648,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2013,8166.668016194332,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2014,8328.178423236515,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2015,8905.491869918698,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2016,9284.004016064257,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Fremont,2017,8662.842741935483,FM,FM,Fremont,FRMT,37.557355,-121.9764,2000 BART Way,Fremont,alameda,CA,94536
+Concord,1999,5532.879032258064,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2000,5803.978871008829,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2001,6009.819277108434,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2002,5624.243902439024,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2003,5278.95951417004,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2004,5154.17004048583,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2005,5117.744,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2006,5250.084,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2007,5383.817813765182,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2008,5544.572580645161,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2009,5358.8983739837395,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2010,4977.669354838709,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2011,5195.94,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2012,5485.136,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2013,5829.109311740891,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2014,5969.705394190872,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2015,6304.857723577235,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2016,6372.180722891566,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Concord,2017,6183.9637096774195,CM,CM,Concord,CONC,37.973737,-122.029095,1451 Oakland Avenue,Concord,contracosta,CA,94520
+Pleasant Hill,1999,6068.6612903225805,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2000,6613.454200003657,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2001,6742.453815261044,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2002,6177.780487804878,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2003,6036.214574898785,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2004,6159.530364372469,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2005,5962.052,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2006,6044.332,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2007,6029.5182186234815,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2008,6246.028225806452,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2009,6081.178861788618,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2010,5781.520161290323,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2011,5923.896,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2012,6184.624,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2013,6579.441295546559,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2014,6619.630705394191,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2015,6939.613821138211,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2016,7433.036144578313,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Pleasant Hill,2017,7544.685483870968,PH,PH,Pleasant Hill/Contra Costa Centre,PHIL,37.928403,-122.056013,1365 Treat Blvd.,Walnut Creek,contracosta,CA,94597
+Walnut Creek,1999,5567.129032258064,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2000,5802.645105503653,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2001,6310.060240963855,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2002,5745.638211382114,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2003,5551.417004048583,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2004,5519.619433198381,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2005,5616.436,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2006,5770.66,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2007,5886.51012145749,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2008,6124.322580645161,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2009,6114.471544715447,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2010,5919.5161290322585,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2011,6104.428,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2012,6337.128,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2013,6612.307692307692,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2014,6602.265560165975,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2015,6828.150406504065,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2016,7137.606425702811,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Walnut Creek,2017,7174.850806451613,WC,WC,Walnut Creek,WCRK,37.905628,-122.067423,200 Ygnacio Valley Road,Walnut Creek,contracosta,CA,94596
+Lafayette,1999,2862.391129032258,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2000,3060.6083295941817,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2001,3207.3012048192772,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2002,3012.231707317073,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2003,2956.7408906882592,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2004,3017.753036437247,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2005,3033.84,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2006,3131.884,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2007,3225.582995951417,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2008,3391.516129032258,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2009,3413.2723577235774,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2010,3316.1975806451615,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2011,3416.728,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2012,3535.4,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2013,3714.773279352227,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2014,3744.875518672199,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2015,3911.60162601626,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2016,3842.0522088353414,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Lafayette,2017,3717.9435483870966,LF,LF,Lafayette,LAFY,37.893394,-122.123801,3601 Deer Hill Road,Lafayette,contracosta,CA,94549
+Orinda,1999,2688.2540322580644,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2000,2768.6296938915757,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2001,2803.847389558233,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2002,2635.268292682927,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2003,2558.1417004048585,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2004,2563.408906882591,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2005,2612.416,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2006,2650.584,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2007,2716.4898785425103,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2008,2830.532258064516,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2009,2841.1382113821137,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2010,2763.048387096774,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2011,2766.436,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2012,2825.92,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2013,2916.676113360324,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2014,2913.4771784232366,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2015,3037.7479674796746,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2016,3135.160642570281,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Orinda,2017,3061.891129032258,OR,OR,Orinda,ORIN,37.87836087,-122.18379109999998,11 Camino Pablo,Orinda,contracosta,CA,94563
+Rockridge,1999,4436.185483870968,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2000,4724.102250772399,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2001,4916.285140562249,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2002,4469.873983739837,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2003,4488.429149797571,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2004,4551.506072874494,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2005,4586.628,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2006,4819.984,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2007,4920.692307692308,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2008,5168.0362903225805,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2009,5324.365853658536,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2010,5120.129032258064,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2011,5266.796,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2012,5603.132,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2013,5933.412955465587,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2014,6007.132780082988,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2015,6184.40650406504,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2016,6183.546184738956,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+Rockridge,2017,5976.2661290322585,RR,RR,Rockridge,ROCK,37.844601000000004,-122.25179299999999,5660 College Avenue,Oakland,alameda,CA,94618
+West Oakland,1999,3904.4879032258063,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2000,4393.101383566394,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2001,4979.598393574297,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2002,4606.4796747967475,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2003,4190.291497975709,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2004,4227.194331983806,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2005,4309.12,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2006,4515.976,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2007,4695.153846153846,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2008,5053.209677419355,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2009,5093.886178861789,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2010,4895.455645161291,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2011,5050.24,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2012,5394.9,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2013,5937.032388663968,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2014,6350.49377593361,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2015,6878.207317073171,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2016,7127.325301204819,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+West Oakland,2017,7165.729838709677,OW,OW,West Oakland,WOAK,37.80467476,-122.2945822,1451 7th Street,Oakland,alameda,CA,94607
+Embarcadero,1999,26058.939516129034,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2000,31983.44442136454,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2001,34593.70281124498,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2002,31174.41056910569,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2003,29253.502024291498,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2004,29438.105263157893,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2005,30011.852,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2006,31584.292,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2007,33452.846153846156,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2008,36094.217741935485,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2009,35486.154471544716,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2010,34309.653225806454,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2011,35603.036,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2012,37699.788,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2013,41058.692307692305,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2014,42546.24066390042,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2015,45459.60569105691,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2016,47643.06024096385,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Embarcadero,2017,48525.842741935485,EM,EM,Embarcadero,EMBR,37.792976,-122.39674199999999,298 Market Street,San Francisco,sanfrancisco,CA,94111
+Montgomery Street,1999,33754.596774193546,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2000,36038.81815296065,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2001,36409.329317269076,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2002,31759.97154471545,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2003,29417.376518218625,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2004,29705.793522267206,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2005,30233.28,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2006,31275.788,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2007,33051.72469635627,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2008,34472.14919354839,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2009,34097.63821138212,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2010,32163.302419354837,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2011,33710.808,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2012,36517.092,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2013,39166.77327935223,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2014,40864.116182572616,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2015,44333.41463414634,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2016,46568.590361445786,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Montgomery Street,2017,45386.084677419356,MT,MT,Montgomery St.,MONT,37.789256,-122.401407,598 Market Street,San Francisco,sanfrancisco,CA,94104
+Powell Street,1999,18764.201612903227,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2000,21466.3595322877,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2001,25391.004016064257,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2002,25019.065040650406,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2003,22140.514170040486,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2004,22491.465587044535,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2005,22690.62,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2006,23272.396,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2007,26169.967611336033,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2008,27896.612903225807,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2009,27064.150406504064,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2010,24675.584677419356,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2011,25138.656,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2012,26400.488,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2013,28294.546558704453,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2014,28321.626556016596,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2015,29428.760162601626,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2016,29549.449799196787,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Powell Street,2017,27783.290322580644,PL,PL,Powell St.,POWL,37.784991,-122.406857,899 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,1999,13423.806451612903,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2000,15528.093598347094,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2001,17753.469879518074,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2002,17569.951219512193,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2003,17485.866396761132,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2004,18609.23076923077,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2005,18645.412,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2006,18463.36,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2007,19061.06072874494,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2008,20312.79435483871,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2009,20088.134146341465,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2010,18431.725806451614,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2011,18119.396,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2012,18739.088,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2013,20341.5991902834,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2014,20810.377593360994,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2015,22763.87398373984,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2016,23564.036144578313,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+Civic Center,2017,23524.935483870966,CV,CV,Civic Center/UN Plaza,CIVC,37.779528000000006,-122.413756,1150 Market Street,San Francisco,sanfrancisco,CA,94102
+16th Street Mission,1999,7625.1088709677415,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2000,8748.774711284912,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2001,9185.614457831325,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2002,8435.90243902439,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2003,7903.465587044534,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2004,8469.137651821862,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2005,8812.672,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2006,9528.768,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2007,10176.684210526315,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2008,10906.834677419354,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2009,11221.276422764227,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2010,10546.491935483871,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2011,10461.472,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2012,11096.16,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2013,12010.587044534414,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2014,12112.041493775934,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2015,12989.459349593495,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2016,13195.429718875503,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+16th Street Mission,2017,12623.145161290322,16,16,16th St. Mission,16TH,37.765062,-122.41969399999999,2000 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,1999,10233.298387096775,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2000,11365.410467031563,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2001,11433.28514056225,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2002,10926.39837398374,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2003,10500.48987854251,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2004,11003.939271255062,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2005,11119.388,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2006,11579.396,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2007,12178.14979757085,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2008,12499.745967741936,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2009,12479.032520325203,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2010,11575.774193548386,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2011,11589.88,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2012,12129.664,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2013,12597.182186234817,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2014,12564.697095435684,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2015,13072.21544715447,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2016,13094.698795180722,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+24th Street Mission,2017,12462.266129032258,24,24,24th St. Mission,24TH,37.752254,-122.418466,2800 Mission Street,San Francisco,sanfrancisco,CA,94110
+Glen Park,1999,6675.1612903225805,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2000,7339.367638669942,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2001,7431.14859437751,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2002,7014.036585365854,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2003,6799.364372469636,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2004,6559.1983805668015,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2005,6513.624,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2006,6941.112,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2007,7418.299595141701,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2008,7632.810483870968,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2009,7564.227642276423,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2010,6930.955645161291,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2011,6823.452,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2012,7081.28,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2013,7406.8744939271255,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2014,7435.55601659751,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2015,7705.873983739837,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2016,7537.779116465864,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Glen Park,2017,7361.366935483871,GP,GP,Glen Park,GLEN,37.732921000000005,-122.43409199999999,2901 Diamond Street,San Francisco,sanfrancisco,CA,94131
+Balboa Park,1999,10658.282258064517,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2000,11730.986668506323,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2001,11783.987951807228,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2002,12511.768292682927,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2003,11844.923076923076,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2004,11863.643724696356,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2005,11734.316,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2006,12251.4,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2007,13302.214574898786,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2008,13827.161290322581,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2009,14121.768292682927,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2010,12414.20564516129,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2011,11464.48,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2012,11767.756,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2013,12123.052631578947,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2014,11580.804979253113,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2015,11780.837398373984,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2016,11591.349397590362,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Balboa Park,2017,10391.258064516129,BP,BP,Balboa Park,BALB,37.72198087,-122.4474142,401 Geneva Avenue,San Francisco,sanfrancisco,CA,94112
+Daly City,1999,6918.508064516129,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2000,7537.254730590176,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2001,8100.622489959839,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2002,7721.975609756098,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2003,7650.048582995952,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2004,7318.578947368421,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2005,7275.044,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2006,7879.46,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2007,8257.497975708502,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2008,8590.116935483871,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2009,8096.373983739837,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2010,7512.923387096775,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2011,8159.208,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2012,8749.992,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2013,9219.068825910932,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2014,9189.647302904565,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2015,9599.99593495935,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2016,9813.29718875502,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Daly City,2017,8946.97177419355,CN,CN,Daly City,DALY,37.70612055,-122.4690807,500 John Daly Blvd.,Daly City,sanmateo,CA,94014
+Colma,1999,6270.145161290323,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2000,6740.96798514307,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2001,7095.791164658634,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2002,6529.9390243902435,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2003,6332.032388663968,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2004,3769.655870445344,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2005,3221.368,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2006,3181.332,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2007,3350.2591093117408,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2008,3632.141129032258,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2009,3759.2479674796746,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2010,3487.2137096774195,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2011,3639.54,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2012,4133.628,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2013,4331.526315789473,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2014,4365.7427385892115,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2015,4548.727642276423,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2016,4641.289156626506,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Colma,2017,4420.447580645161,CL,CL,Colma,COLM,37.684638,-122.466233,365 D Street,Colma,sanmateo,CA,94014
+Castro Valley,1999,1727.8387096774193,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2000,2002.9255756648606,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2001,2142.4979919678717,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2002,2010.30081300813,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2003,1986.6072874493927,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2004,2079.611336032389,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2005,2129.12,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2006,2233.684,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2007,2388.008097165992,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2008,2477.875,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2009,2452.39837398374,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2010,2311.3467741935483,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2011,2389.476,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2012,2518.744,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2013,2743.182186234818,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2014,2765.6348547717844,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2015,2910,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2016,2971.9437751004016,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Castro Valley,2017,2890.3629032258063,BK,BK,Castro Valley,CAST,37.690754,-122.07556699999999,3301 Norbridge Dr.,Castro Valley,alameda,CA,94546
+Dublin / Pleasanton,1999,4681.564516129032,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2000,5525.267826583355,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2001,6410.807228915663,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2002,5916.219512195122,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2003,5854.392712550607,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2004,6365.299595141701,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2005,6571.712,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2006,6995.096,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2007,7503.060728744939,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2008,7857.762096774193,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2009,7912.869918699187,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2010,7561.350806451613,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2011,7481.472,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2012,6865.888,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2013,6971.51012145749,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2014,7042.477178423236,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2015,7494.215447154472,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2016,7939.638554216867,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+Dublin / Pleasanton,2017,8015.572580645161,ED,ED,Dublin/Pleasanton,DUBL,37.701695,-121.90036699999999,5801 Owens Dr.,Pleasanton,alameda,CA,94588
+North Concord / Martinez,1999,1462.407258064516,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2000,1698.2338285125345,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2001,2018.5220883534137,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2002,1827.0365853658536,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2003,1673.5465587044534,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2004,1625.0404858299596,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2005,1605.612,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2006,1647.732,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2007,1831.9433198380566,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2008,2114.6048387096776,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2009,2092.959349593496,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2010,1842.6895161290322,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2011,2014.612,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2012,2217.6,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2013,2498.846153846154,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2014,2641.0954356846473,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2015,2721.10162601626,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2016,2812.590361445783,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+North Concord / Martinez,2017,2702.3790322580644,NC,NC,North Concord/Martinez,NCON,38.003275,-122.024597,3700 Port Chicago Highway,Concord,contracosta,CA,94520
+Pittsburg/BayPoint,1999,3995.3185483870966,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2000,4377.812318006154,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2001,4986.3293172690765,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2002,4697.085365853659,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2003,4597.19028340081,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2004,4751.817813765182,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2005,4817.744,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2006,4867.932,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2007,4986.186234817814,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2008,5116.8387096774195,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2009,5102.365853658536,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2010,4791.532258064516,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2011,4999.724,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2012,5290.112,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2013,5570.1983805668015,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2014,5749.7427385892115,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2015,6166.585365853659,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2016,6249.068273092369,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+Pittsburg/BayPoint,2017,6525.875,WP,WP,Pittsburg/Bay Point,PITT,38.018914,-121.945154,1700 West Leland Road,Pittsburg,contracosta,CA,94565
+South San Francisco,1999,0,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2000,0,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2001,0,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2002,0,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2003,1198,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2004,1910.161943319838,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2005,2589.348,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2006,2539.96,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2007,2565.344129554656,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2008,2836.7419354838707,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2009,2940.162601626016,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2010,2748.4274193548385,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2011,2832.624,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2012,2976.688,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2013,3225.6194331983806,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2014,3282.7095435684646,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2015,3549.9349593495936,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2016,3786.4698795180725,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+South San Francisco,2017,3650.6693548387098,SS,SS,South San Francisco,SSAN,37.664173999999996,-122.444116,1333 Mission Road,South San Francisco,sanmateo,CA,94080
+San Bruno,1999,0,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2000,0,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2001,0,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2002,0,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2003,1116.5,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2004,1470.1012145748987,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2005,1773.12,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2006,2006.692,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2007,2141.635627530364,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2008,2450.8185483870966,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2009,2698.2357723577234,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2010,2611.4717741935483,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2011,2865.264,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2012,3287.98,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2013,3612.1093117408905,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2014,3642.1535269709543,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2015,3963.6788617886177,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2016,4059.413654618474,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Bruno,2017,3872.560483870968,SB,SB,San Bruno,SBRN,37.637753000000004,-122.41603799999999,1151 Huntington Avenue,San Bruno,sanmateo,CA,94066
+San Francisco Airport,1999,0,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2000,0,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2001,0,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2002,0,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2003,3398.8333333333335,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2004,3084.0404858299594,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2005,3505.064,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2006,3773.408,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2007,3980.773279352227,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2008,4858.875,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2009,5568.845528455285,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2010,5068.2137096774195,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2011,5380.296,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2012,5996.012,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2013,6417.2307692307695,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2014,6645.95020746888,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2015,6781.821138211382,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2016,6788.056224899598,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+San Francisco Airport,2017,6447.975806451613,SO,SO,San Francisco Int'l Airport,SFIA,37.616035,-122.39261200000001,"International Terminal, Level 3",San Francisco Int'l Airport,sanmateo,CA,94128
+Millbrae,1999,0,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2000,0,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2001,0,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2002,0,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2003,2306.1666666666665,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2004,2801.7975708502026,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2005,3228.6,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2006,3348.8,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2007,3569.7044534412958,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2008,4123.508064516129,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2009,4535.174796747968,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2010,4516.004032258064,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2011,5068.652,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2012,5506.392,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2013,6093.461538461538,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2014,6137.634854771784,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2015,6656.182926829269,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2016,6872.377510040161,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+Millbrae,2017,6514.620967741936,MB,MB,Millbrae,MLBR,37.599787,-122.38666,200 North Rollins Road,Millbrae,sanmateo,CA,94030
+West Dublin,1999,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2000,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2001,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2002,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2003,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2004,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2005,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2006,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2007,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2008,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2009,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2010,0,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2011,652,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2012,2373.308,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2013,3021.724696356275,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2014,3411.033195020747,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2015,3777.2520325203254,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2016,3692.4738955823295,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
+West Dublin,2017,3649.939516129032,WD,WD,West Dublin/Pleasanton,WDUB,37.699759,-121.928099,6501 Golden Gate Drive,Dublin,alameda,CA,94568
