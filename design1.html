@@ -31,54 +31,71 @@
 <body>
 <div class="row">
   <div class="column">
-  <p>Select starting year:</p>
-  <select id="start_year" onchange="change_start_year()">
-    <option value=1>2011</option>
-      <option value=4>2012</option>
-      <option value=7>2013</option>
-      <option value=10>2014</option>
-      <option value=13>2015</option>
-      <option value=16>2016</option>
-      <option value=18>2017</option>
+  <p>Select year:</p>
+  <select id="start_year" onchange="select_year()">
+      <option value="None">NA</option>
+      <option value="2011">2011</option>
+      <option value="2012">2012</option>
   </select>
   </div>
 
   <div class="column">
-  <p>Select ending year:</p>
-  <select id="end_year" onchange="change_end_year()">
-    <option value=1>2011</option>
-      <option value=4>2012</option>
-      <option value=7>2013</option>
-      <option value=10>2014</option>
-      <option value=13>2015</option>
-      <option value=16>2016</option>
-      <option value=18>2017</option>
-  </select>
    </div>
 </div>
-
-<p id="demo1"></p>
-<p id="demo2"></p>
-
 
 <script>
 function change_start_year() {
 }
-function change_end_year() {
-  var x1 = document.getElementById("start_year").value;
-    var x2 = document.getElementById("end_year").value;
 
-    document.getElementById("demo2").innerHTML = "design1/video.mp4#t=" + x1 + "," + x2;
-    document.getElementById("video").src = "design1/video.mp4#t=" + x1 + "," + x2;
-    var vid = document.getElementById("video"); 
+function select_year() {
+    var year = document.getElementById("start_year").value;
+    document.getElementById("video1").src = "design1/videos/" + year + ".mp4";
+    var vid = document.getElementById("video1"); 
     vid.play();
 }
 
 </script>
 
 
-<video id="video" width="800" height="500" controls>
-  <source src="design1/video.mp4#t=10,15" type="video/mp4"/>
+<video id="video1" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+
+
+<div class="row">
+  <div class="column">
+  <p>Select day of week:</p>
+  <select id="dow" onchange="select_dow()">
+      <option value="None">NA</option>
+      <option value="Mon">Monday</option>
+      <option value="Tue">Tuesday</option>
+      <option value="Wed">Wednesday</option>
+      <option value="Thu">Thursday</option>
+      <option value="Fri">Friday</option>
+      <option value="Sat">Saturday</option>
+      <option value="Sun">Sunday</option>
+  </select>
+  </div>
+
+  <div class="column">
+   </div>
+</div>
+
+
+<script>
+function select_dow() {
+    var dow = document.getElementById("dow").value;
+    document.getElementById("video2").src = "design1/videos/" + dow + ".mp4";
+    var vid = document.getElementById("video2"); 
+    vid.play();
+}
+
+
+</script>
+
+
+<video id="video2" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
 
 </body>
