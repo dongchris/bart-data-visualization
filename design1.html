@@ -1,8 +1,12 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
+
 <html>
+  <head>
+    <title>Bart Visualization</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-
-<head>
+    <link rel="stylesheet" href="assets/css/main.css" />
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 * {
@@ -24,25 +28,58 @@
     clear: both;
 }
 </style>
-</head>
+  </head>
+  <body class="homepage">
+    <div id="page-wrapper">
 
-<body>
+      <!-- Header -->
+        <div id="header-wrapper">
+          <div class="container">
 
-<body>
-<div class="row">
-  <div class="column">
-  <p>Select year:</p>
+            <!-- Header -->
+              <header id="header">
+                <div class="inner">
+
+                  <!-- Logo -->
+                    <h1><a href="index.html" id="logo">Bart Visualization</a></h1>
+
+                  <!-- Nav -->
+                    <nav id="nav">
+                      <ul>
+                        
+                        <!-- <li><a href="left-sidebar.html">Left Sidebar</a></li> -->
+                        <li><a href="design1.html">First Design</a></li>
+                        <!-- <li><a href="no-sidebar.html">No Sidebar</a></li> -->
+                      </ul>
+                    </nav>
+
+                </div>
+              </header>
+
+            <br /><br />
+
+      <!-- Main Wrapper -->
+        <div id="main-wrapper">
+          <div class="wrapper style1">
+            <div class="inner">
+
+              <!-- Feature 1 -->
+                <section class="container box feature1">
+                  <div class="row">
+                
+                  </div>
+                  <div class="row">
+                    <div class="4u 12u(mobile)">
+                      <section>
+                    
+                    </div>
+                  </div>
+           
   <select id="start_year" onchange="select_year()">
-      <option value="None">NA</option>
+      <option value="None">Year</option>
       <option value="2011">2011</option>
       <option value="2012">2012</option>
   </select>
-  </div>
-
-  <div class="column">
-   </div>
-</div>
-
 <script>
 function change_start_year() {
 }
@@ -56,17 +93,15 @@ function select_year() {
 
 </script>
 
-
+<br />
 <video id="video1" width="800" height="500" controls>
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
-
-
-<div class="row">
-  <div class="column">
-  <p>Select day of week:</p>
+<br /><br />
+<hr />
+<br /><br />
   <select id="dow" onchange="select_dow()">
-      <option value="None">NA</option>
+      <option value="None">Day of Week</option>
       <option value="Mon">Monday</option>
       <option value="Tue">Tuesday</option>
       <option value="Wed">Wednesday</option>
@@ -75,13 +110,6 @@ function select_year() {
       <option value="Sat">Saturday</option>
       <option value="Sun">Sunday</option>
   </select>
-  </div>
-
-  <div class="column">
-   </div>
-</div>
-
-
 <script>
 function select_dow() {
     var dow = document.getElementById("dow").value;
@@ -93,11 +121,88 @@ function select_dow() {
 
 </script>
 
-
+<br />
 <video id="video2" width="800" height="500" controls>
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
 
-</body>
-</html>
 
+
+
+
+                </section>
+
+            </div>
+          </div>
+          
+                  </div>
+                </section>
+
+              </div>
+          </div>
+          
+
+
+
+
+
+
+
+
+
+      <!-- Footer Wrapper -->
+        <div id="footer-wrapper">
+          <footer id="footer" class="container">
+            <div class="row">
+              <div class="3u 12u(mobile)">
+
+                <!-- Links -->
+                  <section>
+                    <h2>Github Repository</h2>
+                    <ul class="divided">
+                      <li><a href="https://github.com/dongchris">Chris Dong</a></li>
+                      <li><a href="https://github.com/cxu29">Chengcheng Xu</a></li>
+                      <li><a href="https://github.com/dongchris/bart-data-visualization">Project Repository</a></li>
+                    </ul>
+                  </section>
+
+                    <section>
+                    <h2>Data Source</h2>
+                    <ul class="divided">
+                      <li><a href="https://www.bart.gov/about/reports/ridership">Ridership Reports</a></li>
+                      <li><a href="https://www.kaggle.com/saulfuh/bart-ridership/data">Geographic Information</a></li>
+                      <li><a href="https://www.bart.gov/sites/default/files/docs/Station_Names.xls">Station Mapping</a></li>
+                    </ul>
+                  </section>
+
+              </div>
+              
+
+              </div>
+            </div>
+            <div class="row">
+              <div class="12u">
+                <!-- <div id="copyright">
+                  <ul class="menu">
+                    <li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+                  </ul>
+                </div> -->
+              </div>
+            </div>
+          </footer>
+        </div>
+
+    </div>
+
+    <!-- Scripts -->
+
+      <script src="assets/js/jquery.min.js"></script>
+      <script src="assets/js/jquery.dropotron.min.js"></script>
+      <script src="assets/js/skel.min.js"></script>
+      <script src="assets/js/skel-viewport.min.js"></script>
+      <script src="assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script src="assets/js/main.js"></script>
+
+  </body>
+</html>
