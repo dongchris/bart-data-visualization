@@ -102,6 +102,7 @@ function select_year() {
 <video id="video1" width="800" height="500" controls>
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
+
 <br /><br />
 <hr />
 <br /><br />
@@ -130,6 +131,35 @@ function select_dow() {
 <video id="video2" width="800" height="500" controls>
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
+
+
+<br /><br />
+<hr />
+<br /><br />
+
+ <select id="rush" onchange="select_rush()">
+      <option value="None">Rush hour</option>
+      <option value="am">8:00 AM</option>
+      <option value="pm">18:00 PM</option>
+  </select>
+
+<script>
+
+function select_rush() {
+    var rush = document.getElementById("rush").value;
+    document.getElementById("video3").src = "design1/videos/" + rush + ".mp4";
+    var vid = document.getElementById("video3"); 
+    vid.play();
+}
+
+</script>
+
+<br />
+<video id="video3" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+
+
 
 
 
