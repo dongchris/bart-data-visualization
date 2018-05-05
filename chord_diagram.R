@@ -3,7 +3,7 @@ library(chorddiag)
 
 library(tidyverse)
 library(circlize)
-data = read_csv('matrix2017.csv')
+data = read_csv('data/matrix2014.csv')
 m = data[,-1]
 m
 station_names = c(
