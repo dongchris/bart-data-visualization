@@ -7,7 +7,26 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 
 		<link rel="stylesheet" href="assets/css/main.css" />
+<style>
+* {
+    box-sizing: border-box;
+}
 
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 8%;
+    padding: 10px;
+    height: 100px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
 	</head>
 	<body class="homepage">
 		<div id="page-wrapper">
@@ -91,6 +110,102 @@
 											</section>
 										</div>
 									</div>
+									
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/1.embed" height="525" width="100%"></iframe>'
+
+                  <select id="start_year" onchange="select_year()">
+      <option value="None">Year</option>
+      <option value="2011">2011</option>
+      <option value="2012">2012</option>
+      <option value="2013">2013</option>
+      <option value="2014">2014</option>
+      <option value="2015">2015</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+  </select>
+<script>
+function change_start_year() {
+}
+
+function select_year() {
+    var year = document.getElementById("start_year").value;
+    document.getElementById("video1").src = "design1/videos/" + year + ".mp4";
+    var vid = document.getElementById("video1"); 
+    vid.play();
+}
+
+</script>
+
+<br />
+<video id="video1" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+
+<br /><br />
+<hr />
+<br /><br />
+  <select id="dow" onchange="select_dow()">
+      <option value="None">Day of Week</option>
+      <option value="Mon">Monday</option>
+      <option value="Tue">Tuesday</option>
+      <option value="Wed">Wednesday</option>
+      <option value="Thu">Thursday</option>
+      <option value="Fri">Friday</option>
+      <option value="Sat">Saturday</option>
+      <option value="Sun">Sunday</option>
+  </select>
+<script>
+function select_dow() {
+    var dow = document.getElementById("dow").value;
+    document.getElementById("video2").src = "design1/videos/" + dow + ".mp4";
+    var vid = document.getElementById("video2"); 
+    vid.play();
+}
+
+
+</script>
+
+<br />
+<video id="video2" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+
+
+<br /><br />
+<hr />
+<br /><br />
+
+ <select id="rush" onchange="select_rush()">
+      <option value="None">Rush hour</option>
+      <option value="am">8:00 AM</option>
+      <option value="pm">18:00 PM</option>
+  </select>
+
+<script>
+
+function select_rush() {
+    var rush = document.getElementById("rush").value;
+    document.getElementById("video3").src = "design1/videos/" + rush + ".mp4";
+    var vid = document.getElementById("video3"); 
+    vid.play();
+}
+
+</script>
+
+<br />
+<video id="video3" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+           
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="design2.html" height="525" width="100%"></iframe>'
+
+<iframe id='igraph' scrolling="no" style="border:none;" seamless="seamless" src="chord2017.html" height="725" width="100%"></iframe>
+
+
+<iframe id='igraph' scrolling="no" style="border:none; padding-left: 10" seamless="seamless" src="aggregate_chord.html" height="725" width="100%"></iframe>
 									
 								</section>
 

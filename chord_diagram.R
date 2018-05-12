@@ -3,9 +3,11 @@ library(chorddiag)
 
 library(tidyverse)
 library(circlize)
-data = read_csv('data/matrix2014.csv')
+data = read_csv('data/matrix2017.csv')
+
+data
 m = data[,-1]
-m
+
 station_names = c(
   'Millbrae',
   'SFO',
@@ -57,6 +59,7 @@ station_names = c(
 
 m = as.data.frame(m)
 
+m
 
 dimnames(m) <- list(from = station_names,
                     to = station_names)
@@ -111,4 +114,32 @@ group_colors = c('#8dd3c7',
                   '#b3de69',
                   '#b3de69')
 chorddiag(m, groupColors = group_colors,showTicks = F,groupnameFontsize = 9,
-            height = 700, width = 700, groupnamePadding = 10)
+            height = 700, width = 700, groupnamePadding = 20, fadeLevel = 0.01,
+          groupThickness = 0.01)
+
+
+
+data2 = read_csv('data/aggmatrix2017.csv')
+
+data2
+m2 = data2[,-1]
+
+station_names2 = c('Millbrae-Daly City',
+                   'San Francisco',
+                   'Berkeley',
+                   'Oakland',
+                   'Walnut Creek-Pittsburg/Bay Point',
+                   'Fruitvale-Dublin/Pleasanton',
+                   'Fremont'
+)
+
+group_colors = c()
+
+
+dimnames(mm22) <- list(from = station_names2,
+                    to = station_names2)
+m2 = as.matrix(m2)
+
+chorddiag(m2, groupColors = group_colors,showTicks = F,groupnameFontsize = 9,
+          height = 700, width = 700, groupnamePadding = 20, fadeLevel = 0.01,
+          groupThickness = 0.01)
