@@ -22,8 +22,11 @@ All of the code is in the root directory.
 `visualization_circle_plot.ipynb`: Video by day of week, hour, year
 - Folium (Python)
 
-## Raw Data
+## Data
 
+The raw data can be found under `/data_source`. Cleaned up data can be found under `/data`
 
+## Slides
 
-
+[Beta Presentation](https://github.com/dongchris/bart-data-visualization/blob/master/slides/Bart_4_26_Alpha.pdf)
+[Alpha Presentation](https://github.com/dongchris/bart-data-visualization/blob/master/slides/Bart_5_18_Beta.pdf)
