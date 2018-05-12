@@ -35,3 +35,8 @@ Cleaned up data can be found under `/data`
 
 [Beta Presentation](https://github.com/dongchris/bart-data-visualization/blob/master/slides/Bart_4_26_Alpha.pdf)     
 [Alpha Presentation](https://github.com/dongchris/bart-data-visualization/blob/master/slides/Bart_5_18_Beta.pdf)
+
+## Miscellaneous
+
+`design1/` consists of all the individual video files. JavaScript is used to control which videos get played.     
+`templates/` consists of individual HTML files that `index.html` will refer to.
