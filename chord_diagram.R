@@ -3,11 +3,14 @@ library(chorddiag)
 
 library(tidyverse)
 library(circlize)
+
+## Loading Data
 data = read_csv('data/matrix2017.csv')
 
 data
 m = data[,-1]
 
+## Getting Station names
 station_names = c(
   'Millbrae',
   'SFO',
@@ -61,12 +64,15 @@ m = as.data.frame(m)
 
 m
 
+## Adding row and column names
 dimnames(m) <- list(from = station_names,
                     to = station_names)
+## Creating matrix
 m = as.matrix(m)
 
 m
 
+## Adding colors
 group_colors = c('#8dd3c7',
                   '#8dd3c7',
                   '#8dd3c7',
@@ -113,12 +119,14 @@ group_colors = c('#8dd3c7',
                   '#b3de69',
                   '#b3de69',
                   '#b3de69')
+
+## Creating chord diagram, will save as HTML
 chorddiag(m, groupColors = group_colors,showTicks = F,groupnameFontsize = 9,
             height = 700, width = 700, groupnamePadding = 20, fadeLevel = 0.01,
           groupThickness = 0.01)
 
 
-
+## Same as above but with aggregated matrix (46 stations -> 7 clusters)
 data2 = read_csv('data/aggmatrix2017.csv')
 
 data2
