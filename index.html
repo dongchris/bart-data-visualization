@@ -189,8 +189,24 @@ function select_year_chord() {
 }
 </script>
 
-<iframe id='igraph1' scrolling="no" style="border:none;" seamless="seamless" src="templates/chord2017.html" height="725" width="100%"></iframe>
+<iframe id='igraph1' scrolling="no" style="border:none;" seamless="seamless" src="templates/chord2014.html" height="725" width="100%"></iframe>
 
+
+
+
+	<select id="year_chord_agg" onchange="select_year_chord_agg()">
+      <option value="aggregate_chord2014.html">2014</option>
+      <option value="aggregate_chord2015.html">2015</option>
+      <option value="aggregate_chord2016.html">2016</option>
+      <option value="aggregate_chord2017.html">2017</option>
+	</select>
+
+<script>
+function select_year_chord_agg() {
+    var year = document.getElementById("year_chord_agg").value;
+    document.getElementById("igraph2").src = "templates/" + year;
+}
+</script>
 
 <iframe id='igraph2' scrolling="no" style="border:none; padding-left: 10" seamless="seamless" src="templates/aggregate_chord.html" height="725" width="100%"></iframe>
 
