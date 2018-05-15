@@ -167,8 +167,26 @@ function select_rush() {
 </video>
 &nbsp; <img src = "images/legend.png">
            
+<br /><br />
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="templates/design2.html" height="525" width="100%"></iframe>
+	<select id="year_heatmap" onchange="select_year_heatmap()">
+      <option value="heatmap_2011.html">2011</option>
+      <option value="heatmap_2012.html">2012</option>
+      <option value="heatmap_2013.html">2013</option>
+      <option value="heatmap_2014.html">2014</option>
+      <option value="heatmap_2015.html">2015</option>
+      <option value="heatmap_2016.html">2016</option>
+	</select>
+
+<script>
+function select_year_heatmap() {
+    var year = document.getElementById("year_heatmap").value;
+    document.getElementById("igraph4").src = "templates/" + year;
+}
+</script>
+
+<iframe id="igraph4" scrolling="no" style="border:none;" seamless="seamless" src="templates/heatmap_2011.html" height="525" width="100%"></iframe>
+
 
 
     <select id="year_chord" onchange="select_year_chord()">
@@ -178,7 +196,7 @@ function select_rush() {
       <option value="chord2017.html">2017</option>
   </select>
 
-<script>
+<script> 
 function select_year_chord() {
     var year = document.getElementById("year_chord").value;
     document.getElementById("igraph1").src = "templates/" + year;
@@ -186,8 +204,6 @@ function select_year_chord() {
 </script>
 
 <iframe id='igraph1' scrolling="no" style="border:none;" seamless="seamless" src="templates/chord2014.html" height="725" width="100%"></iframe>
-
-
 
 
 	<select id="year_chord_agg" onchange="select_year_chord_agg()">
