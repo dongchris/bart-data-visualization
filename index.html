@@ -114,7 +114,7 @@
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/1.embed" height="525" width="100%"></iframe>
 
-                  <select id="start_year" onchange="select_year()">
+<select id="start_year" onchange="select_year()">
       <option value="None">Year</option>
       <option value="2011">2011</option>
       <option value="2012">2012</option>
@@ -125,8 +125,6 @@
       <option value="2017">2017</option>
   </select>
 <script>
-function change_start_year() {
-}
 
 function select_year() {
     var year = document.getElementById("start_year").value;
@@ -134,8 +132,6 @@ function select_year() {
     var vid = document.getElementById("video1"); 
     vid.play();
 }
-
-
 </script>
 
 <br />
@@ -176,27 +172,29 @@ function select_rush() {
 &nbsp; <img src = "images/legend.png">
            
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="templates/design2.html" height="525" width="100%"></iframe>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="templates/design2.html" height="525" width="100%"></iframe>'
 
-
-    <select id="start_year" onchange="select_year()">
-      <option value="None">Year</option>
-      <option value="2011">2011</option>
-      <option value="2012">2012</option>
-      <option value="2013">2013</option>
-      <option value="2014">2014</option>
-      <option value="2015">2015</option>
-      <option value="2016">2016</option>
-      <option value="2017">2017</option>
+    <select id="year_chord" onchange="select_year_chord()">
+      <option value="chord2014.html">2014</option>
+      <option value="chord2015.html">2015</option>
+      <option value="chord2016.html">2016</option>
+      <option value="chord2017.html">2017</option>
   </select>
 
-<iframe id='igraph' scrolling="no" style="border:none;" seamless="seamless" src="templates/chord2017.html" height="725" width="100%"></iframe>
+<script>
+function select_year_chord() {
+    var year = document.getElementById("year_chord").value;
+    document.getElementById("igraph1").src = "templates/" + year;
+}
+</script>
+
+<iframe id='igraph1' scrolling="no" style="border:none;" seamless="seamless" src="templates/chord2017.html" height="725" width="100%"></iframe>
 
 
-<iframe id='igraph' scrolling="no" style="border:none; padding-left: 10" seamless="seamless" src="templates/aggregate_chord.html" height="725" width="100%"></iframe>
+<iframe id='igraph2' scrolling="no" style="border:none; padding-left: 10" seamless="seamless" src="templates/aggregate_chord.html" height="725" width="100%"></iframe>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/7.embed" height="1000" width="100%"></iframe>
+<iframe id="igraph3" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/7.embed" height="1000" width="100%"></iframe>
 
 								</section>
 
