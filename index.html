@@ -112,7 +112,7 @@
 									</div>
 									
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/1.embed" height="525" width="100%"></iframe>'
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/1.embed" height="525" width="100%"></iframe>
 
                   <select id="start_year" onchange="select_year()">
       <option value="None">Year</option>
@@ -141,36 +141,6 @@ function select_year() {
 <video id="video1" width="800" height="500" controls>
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
-
-<br /><br />
-<hr />
-<br /><br />
-  <select id="dow" onchange="select_dow()">
-      <option value="None">Day of Week</option>
-      <option value="Mon">Monday</option>
-      <option value="Tue">Tuesday</option>
-      <option value="Wed">Wednesday</option>
-      <option value="Thu">Thursday</option>
-      <option value="Fri">Friday</option>
-      <option value="Sat">Saturday</option>
-      <option value="Sun">Sunday</option>
-  </select>
-<script>
-function select_dow() {
-    var dow = document.getElementById("dow").value;
-    document.getElementById("video2").src = "design1/videos/" + dow + ".mp4";
-    var vid = document.getElementById("video2"); 
-    vid.play();
-}
-
-
-</script>
-
-<br />
-<video id="video2" width="800" height="500" controls>
-  <source src="design1/videos/video.mp4" type="video/mp4"/>
-</video>
-
 
 <br /><br />
 <hr />
