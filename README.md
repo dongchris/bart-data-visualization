@@ -18,6 +18,7 @@ All of the code is in the root directory.
 - plotly (Python)   
 
 `index.html`: website page    
+`legend_plot.R`: creating the legend for Design 1 with R and specifying percentiles from ridership data
 `preprocessing_bart_{1,2,3}.ipynb`: Preparing and cleaning the raw data    
 `reorder.xlsx`: Simple Excel functions to reorder stations, create dictionary mappings and clusters    
 `small_multiple.ipynb`: Line chart for every possible station     

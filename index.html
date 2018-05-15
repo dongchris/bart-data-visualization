@@ -26,6 +26,39 @@
     display: table;
     clear: both;
 }
+
+H2.writing {
+    font-family: Georgia, serif;
+    font-size: 14px;
+    font-weight: normal;
+    letter-spacing: 1.2px;
+    color: #009900;
+}
+P, BLOCKQUOTE {
+    font-family: Verdana;
+    font-size: 11px;
+    color: #555555;
+    line-height: 1.5;
+    letter-spacing: .25px;
+}
+BLOCKQUOTE {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: #444444;
+    letter-spacing: 1.25px;
+    line-height: 1.5;
+    background: #EEEEEE;
+    padding: 5px;
+    margin: auto 15px;
+    text-align: left;
+}
+A {
+    color: #006600;
+}
+ABBR {
+    border-bottom: dotted 1px #006600;
+}
+
 </style>
 	</head>
 	<body class="homepage">
@@ -110,6 +143,17 @@
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/1.embed" height="525" width="100%"></iframe>
 
+<h2 class = "writing">How is the annual BART ridership changing from 1973 to 2017?</h2>
+
+<blockquote>
+    This bar plot demonstrates how the annual bart ridership changes from 1973 to 2017. Over 44 years, the annual bart ridership has increased by more than 27 times (from 4.59million to 124.17million). In general, the annual bart ridership changes quite slowly. Among most of years, the annual bart ridership is slightly higher than previous year. Very interestingly, for every 7 - 8 years, the annual ridership might decrease by small amount. This pattern is quite stable from the bar plot. 
+
+The nearly 17% ridership jump from 1989 to 1990 is mainly because of Loma Prieta earthquake, which severely damaged the San Francisco-Oakland Bay Bridge. So BART became the only direct route between the East Bay and San Francisco.  
+
+BART ridership has grown rapidly since 2010, mirroring strong economic growth in the Bay Area, and high gasoline prices is also one reason of BART’s growth. 
+
+</blockquote><br />
+
 <select id="start_year" onchange="select_year()">
       <option value="None">Year</option>
       <option value="2011">2011</option>
@@ -135,6 +179,13 @@ function select_year() {
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
 &nbsp; <img src = "images/legend.png">
+
+<h2 class = "writing">How is the hourly ridership changing for one specific year?</h2>
+
+<blockquote>
+   In this visualization, the user could select different year and observe how the ridership changes from Monday to Sunday during 24 hours. We utilize different backgrounds for day time (6AM - 5PM) and night time (6PM - 5AM). During weekdays, the ridership has two clearly seen peaks, one at 8AM and another at 6PM, because most of people go to work around 8AM and come back home around 6PM. The ridership during weekends is quite different, which does not change a lot during 24 hours.
+
+</blockquote><br />
 
 <br /><br />
 <hr />
@@ -166,6 +217,15 @@ function select_rush() {
   <source src="design1/videos/video.mp4" type="video/mp4"/>
 </video>
 &nbsp; <img src = "images/legend.png">
+
+<h2 class = "writing">How is the ridership for rush hours changing across different years?
+</h2>
+
+<blockquote>
+   The most important information for most of people who take BART every weekday is to know ridership information during rush hours. Based previous data visualization, we find out that there are two rush hours, one is around 8AM and another one is around 6PM. In this visualization, we enable user to select one rush hour from 7AM, 8AM, 9AM, 16PM, 17PM and 18PM, such that the user could observe how the ridership of one specific rush hour during weekdays change across different years. Among morning rush hours, the traffic is heaviest at 8AM, and most of ridership centered around SF downtown area. There are also good amount of people go to Oakland. Among afternoon rush hours, we can clearly see that ridership distributed very evenly on the map. This is because the bay area has very evenly distributed residential population and exit ridership during afternoon rush hours basically represent the residential population distribution.
+
+</blockquote><br />
+
            
 <br /><br />
 
@@ -222,7 +282,30 @@ function select_year_chord_agg() {
 
 <iframe id='igraph2' scrolling="no" style="border:none; padding-left: 10" seamless="seamless" src="templates/aggregate_chord2014.html" height="725" width="100%"></iframe>
 
+<h2 class = "writing">How is ridership across various BART origin-destination pairs?
+</h2>
+
+<blockquote>
+  The first chord diagram consists of all 46 stations. Hovering allows us to see the origin and destination pairs for all pairs of BART station. From a quick glance, it is evident that San Francisco stations have the heaviest traffic. It is a little cluttered so the next chord diagram gives a clear picture by aggregating the stations into various clusters. We see that the most popular destination by far is  San Francisco to San Francisco (staying within San Francisco BART stations) and others include San Francisco to Millbrae-Daly City (includes SFO Airport), San Francisco to Berkeley, as well as San Francisco to Fruitvale-Dublin/Pleasanton.
+
+</blockquote><br />
+
 <iframe id="igraph3" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/7.embed" height="1000" width="100%"></iframe>
+
+
+
+<h2 class = "writing">How has BART grown from 2001 to 2017 across individual BART stations?
+</h2>
+
+<blockquote>
+ Analyzing growth for different bart station might indicate where people choose to live or work across different years. The data is based on annual ridership from 2001 to 2017 for 46 stations. There are 3 stations, which do not have complete data for every year from 2001 to 2017, so we do not analyze them here. Among the remaining 43 stations, roughly speaking, there are 3 types of stations based on ridership trend.
+
+For the first type, the ridership decreases during the first few years. For all stations within this category, the ridership decreases for a few years before 2010, increases afterwards and then drop around year 2015. Another feature of this category is that the ridership after 2010 is eventually higher than ridership before 2010. After some investigation, the ridership drop around 2015 might be caused by low gas price. <br /><br />
+
+Looking at the growth from 2001 to 2017 for the 46 stations allows us to see the behavior across individual BART stations based on ridership exits. For example, we can easily identify the newer BART stations such as Warm Springs, West Dublin/Pleasanton, and Oakland International Airport. It is interesting to note that there is an overall dip in BART -- perhaps it is caused by the popularity and convenience of on-demand rides like Uber or Lyft. Overall, a sigmoid function seems to capture the overall trend for many of the BART stations. As a personal anecdote, I live close to Colma Station. The sharp decrease in ridership since 2003 may be related to the long wait times for BART as I commute everyday. For some stations like Embarcadero there is a general increasing trend while others like Hayward fluctuates quite heavily.
+
+
+</blockquote><br />
 
 								</section>
 
