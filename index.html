@@ -248,6 +248,15 @@ function select_year_heatmap() {
 <iframe id="igraph4" scrolling="no" style="border:none;" seamless="seamless" src="templates/heatmap_2011.html" height="525" width="100%"></iframe>
 
 
+<h2 class = "writing">How does ridership change by day of week and time of day?
+</h2>
+
+<blockquote>
+  From the heatmap, we can easily see that the traffic peaks on weekdays during 7 am to 9 am for the morning and 4 pm to 6 pm, reflected by the darker shades of red. During weekends, the ridership is fairly stable and low, indicated by the shades of yellow. If users switch to the 3D surface, a smaller peak can be seen around 2 am. We hypothesize that it is because it is the last train of the day. The data is incomplete for 2017 so it is not included in the heatmap.
+
+</blockquote><br />
+
+
 
     <select id="year_chord" onchange="select_year_chord()">
       <option value="chord2014.html">2014</option>
@@ -300,7 +309,8 @@ function select_year_chord_agg() {
 <blockquote>
  Analyzing growth for different bart station might indicate where people choose to live or work across different years. The data is based on annual ridership from 2001 to 2017 for 46 stations. There are 3 stations, which do not have complete data for every year from 2001 to 2017, so we do not analyze them here. Among the remaining 43 stations, roughly speaking, there are 3 types of stations based on ridership trend.
 
-For the first type, the ridership decreases during the first few years. For all stations within this category, the ridership decreases for a few years before 2010, increases afterwards and then drops around year 2015. Another feature of this category is that the ridership after 2010 is eventually higher than ridership before 2010. After some investigation, the ridership drop around 2015 might be caused by low gas price. <br /><br />
+For the first type, the ridership decreases during the first few years. For all stations within this category, the ridership decreases for a few years before 2010, increases afterwards and then drops around year 2015. Another feature of this category is that the ridership after 2010 is eventually higher than ridership before 2010. After some investigation, the ridership drop around 2015 might be caused by low gas price. The second type is very similar with the first type station except that the ridership after 2010 is lower than ridership before 2010 on average. Apart from the first and second type stations, there are 3 stations, which have monotonically increasing trends of ridership.
+<br /><br />
 
 Looking at the growth from 2001 to 2017 for the 46 stations allows us to see the behavior across individual BART stations based on ridership exits. For example, we can easily identify the newer BART stations such as Warm Springs, West Dublin/Pleasanton, and Oakland International Airport. It is interesting to note that there is an overall dip in BART -- perhaps it is caused by the popularity and convenience of on-demand rides like Uber or Lyft. Overall, a sigmoid function seems to capture the overall trend for many of the BART stations. As a personal anecdote, I live close to Colma Station. The sharp decrease in ridership since 2003 may be related to the long wait times for BART as I commute everyday. For some stations like Embarcadero there is a general increasing trend while others like Hayward fluctuates quite heavily.
 
