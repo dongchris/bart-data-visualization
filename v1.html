@@ -1,0 +1,386 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title >Bart Visualization</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+
+		<link rel="stylesheet" href="assets/css/main.css" />
+<style>
+* {
+    box-sizing: border-box;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 8%;
+    padding: 10px;
+    height: 100px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+H2.writing {
+    font-family: Georgia, serif;
+    font-size: 20px;
+    font-weight: normal;
+    letter-spacing: 1.2px;
+    color: #009900;
+}
+P, BLOCKQUOTE {
+    font-family: Verdana;
+    font-size: 18px;
+    color: #555555;
+    line-height: 1.5;
+    letter-spacing: .25px;
+}
+BLOCKQUOTE {
+    font-family: Georgia, serif;
+    font-style: italic;
+    color: #444444;
+    letter-spacing: 1.25px;
+    line-height: 1.5;
+    background: #EEEEEE;
+    padding: 5px;
+    margin: auto 15px;
+    text-align: left;
+}
+A {
+    color: #006600;
+}
+ABBR {
+    border-bottom: dotted 1px #006600;
+}
+
+</style>
+	</head>
+	<body class="homepage">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<div class="container">
+
+						<!-- Header -->
+							<header id="header">
+								<div class="inner">
+
+									<!-- Logo -->
+										<h1><a href="v1.html" id="logo">Bart Visualization</a></h1>
+
+									<!-- Nav -->
+										<nav id="nav">
+											<ul>
+												
+											
+											</ul>
+										</nav>
+
+								</div>
+							</header>
+
+						<!-- Banner -->
+							<div id="banner">
+								<h2 style = "color:#F9FF33"><strong>MSAN 622:</strong> Data Visualization
+								<br />
+								Displaying BART Traffic <br />with Interactive Visualizations</h2>
+							<h3 style = "color:#F9FF33">By Chris Dong, Chengcheng Xu</h3>	
+							</div>
+
+					</div>
+				</div>
+
+			<!-- Main Wrapper -->
+				<div id="main-wrapper">
+					<div class="wrapper style1">
+						<div class="inner">
+
+							<!-- Feature 1 -->
+								<section class="container box feature1">
+									<div class="row">
+								
+									</div>
+									<div class="row">
+										<div class="4u 12u(mobile)">
+											<section>
+												<img src="images/Design1.png" alt="" 
+												height = "200" width = "350"/>
+												<header class="second icon fa-bar-chart-o">
+													<h3>Prototype 1</h3>
+													<p>Interactive Map</p>
+												</header>
+											</section>
+										</div>
+										<div class="4u 12u(mobile)">
+											<section>
+												<img src="images/Design2-Heatmap.png" alt="" 
+												height = "200" width = "350"/>
+												<header class="second icon fa-bar-chart-o">
+													<h3>Prototype 2</h3>
+													<p>Heatmap</p>
+												</header>
+											</section>
+										</div>
+										<div class="4u 12u(mobile)">
+											<section>
+												<img src="images/Design3.png" alt="" 
+												height = "200" width = "350"/>
+												<header class="second icon fa-bar-chart-o">
+													<h3>Prototype 3</h3>
+													<p>Cluster Map</p>
+												</header>
+											</section>
+										</div>
+									</div>
+									
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/1.embed" height="525" width="100%"></iframe>
+
+<h2 class = "writing">How is the annual BART ridership changing from 1973 to 2017?</h2>
+
+<blockquote>
+    This bar plot demonstrates how the annual bart ridership changes from 1973 to 2017. Over the last 44 years, the annual bart ridership has increased by more than 27 times (from 4.59 million to 124.17 million). In general, the annual bart ridership changes quite slowly. Among most of the years, the annual bart ridership is slightly higher than the previous year. Very interestingly, for every 7 - 8 years, the annual ridership might decrease by small amount. This pattern is quite stable from the bar plot. 
+
+The nearly 17% ridership jump from 1989 to 1990 is mainly because of Loma Prieta earthquake, which severely damaged the San Francisco-Oakland Bay Bridge. This meant that BART became the only direct route between the East Bay and San Francisco.
+
+BART ridership has grown rapidly since 2010, mirroring strong economic growth in the Bay Area, and high gasoline prices has also contributed to BART’s growth. 
+
+</blockquote><br />
+
+<select id="start_year" onchange="select_year()">
+      <option value="None">Year</option>
+      <option value="2011">2011</option>
+      <option value="2012">2012</option>
+      <option value="2013">2013</option>
+      <option value="2014">2014</option>
+      <option value="2015">2015</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+  </select>
+<script>
+
+function select_year() {
+    var year = document.getElementById("start_year").value;
+    document.getElementById("video1").src = "design1/videos/" + year + ".mp4";
+    var vid = document.getElementById("video1"); 
+    vid.play();
+}
+</script>
+
+<br />
+<video id="video1" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+&nbsp; <img src = "images/legend.png">
+
+<h2 class = "writing">How is the hourly ridership changing for one specific year?</h2>
+
+<blockquote>
+   In this visualization, the user could select different years and observe how the ridership changes from Monday to Sunday during 24 hours. We utilize different backgrounds for day time (6AM - 5PM) and night time (6PM - 5AM). During weekdays, the ridership has two clear peaks, one at 8AM and another at 6PM, because most of people go to work around 8AM and come back home around 6PM. The ridership during weekends is quite different, which does not change a lot during 24 hours.
+
+</blockquote><br />
+
+<br /><br />
+<hr />
+<br /><br />
+
+ <select id="rush" onchange="select_rush()">
+      <option value="None">Rush hour</option>
+      <option value="7">7:00 AM</option>
+      <option value="am">8:00 AM</option>
+      <option value="9">9:00 AM</option>
+      <option value="16">16:00 PM</option>
+      <option value="17">17:00 PM</option>
+      <option value="pm">18:00 PM</option>
+  </select>
+
+<script>
+
+function select_rush() {
+    var rush = document.getElementById("rush").value;
+    document.getElementById("video3").src = "design1/videos/" + rush + ".mp4";
+    var vid = document.getElementById("video3"); 
+    vid.play();
+}
+
+</script>
+
+<br />
+<video id="video3" width="800" height="500" controls>
+  <source src="design1/videos/video.mp4" type="video/mp4"/>
+</video>
+&nbsp; <img src = "images/legend.png">
+
+<h2 class = "writing">How is the ridership for rush hours changing across different years?
+</h2>
+
+<blockquote>
+   The most important information for most of people who take BART every weekday is to know ridership information during rush hours. Based previous data visualization, we find out that there are two rush hours, one is around 8AM and another one is around 6PM. In this visualization, we enable users to select one rush hour from 7AM, 8AM, 9AM, 16PM, 17PM and 18PM, such that the user could observe how the ridership of one specific rush hour during weekdays change across different years. Among morning rush hours, the traffic is heaviest at 8AM, and most of ridership centered around the San Francisco downtown area. There are also a good amount of people who go to Oakland. Among afternoon rush hours, we can clearly see that ridership is distributed very evenly on the map. This is because the bay area has very evenly distributed residential population and exit ridership during afternoon rush hours basically represent the residential population distribution.
+
+</blockquote><br />
+
+           
+<br /><br />
+
+	<select id="year_heatmap" onchange="select_year_heatmap()">
+      <option value="heatmap_2011.html">2011</option>
+      <option value="heatmap_2012.html">2012</option>
+      <option value="heatmap_2013.html">2013</option>
+      <option value="heatmap_2014.html">2014</option>
+      <option value="heatmap_2015.html">2015</option>
+      <option value="heatmap_2016.html">2016</option>
+	</select>
+
+<script>
+function select_year_heatmap() {
+    var year = document.getElementById("year_heatmap").value;
+    document.getElementById("igraph4").src = "templates/" + year;
+}
+</script>
+
+<iframe id="igraph4" scrolling="no" style="border:none;" seamless="seamless" src="templates/heatmap_2011.html" height="525" width="100%"></iframe>
+
+
+<h2 class = "writing">How does ridership change by day of week and time of day?
+</h2>
+
+<blockquote>
+  From the heatmap, we can easily see that the traffic peaks on weekdays during 7 am to 9 am for the morning and 4 pm to 6 pm, reflected by the darker shades of red. During weekends, the ridership is fairly stable and low, indicated by the shades of yellow. If users switch to the 3D surface, a smaller peak can be seen around 2 am. We hypothesize that it is because it is the last train of the day. The data is incomplete for 2017 so it is not included in the heatmap.
+
+</blockquote><br />
+
+
+
+    <select id="year_chord" onchange="select_year_chord()">
+      <option value="chord2014.html">2014</option>
+      <option value="chord2015.html">2015</option>
+      <option value="chord2016.html">2016</option>
+      <option value="chord2017.html">2017</option>
+  </select>
+
+<script> 
+function select_year_chord() {
+    var year = document.getElementById("year_chord").value;
+    document.getElementById("igraph1").src = "templates/" + year;
+}
+</script>
+
+<iframe id='igraph1' scrolling="no" style="border:none;" seamless="seamless" src="templates/chord2014.html" height="725" width="100%"></iframe>
+
+
+	<select id="year_chord_agg" onchange="select_year_chord_agg()">
+      <option value="aggregate_chord2014.html">2014</option>
+      <option value="aggregate_chord2015.html">2015</option>
+      <option value="aggregate_chord2016.html">2016</option>
+      <option value="aggregate_chord2017.html">2017</option>
+	</select>
+
+<script>
+function select_year_chord_agg() {
+    var year = document.getElementById("year_chord_agg").value;
+    document.getElementById("igraph2").src = "templates/" + year;
+}
+</script>
+
+<iframe id='igraph2' scrolling="no" style="border:none; padding-left: 10" seamless="seamless" src="templates/aggregate_chord2014.html" height="725" width="100%"></iframe>
+
+<h2 class = "writing">How is ridership across various BART origin-destination pairs?
+</h2>
+
+<blockquote>
+  The first chord diagram consists of all 46 stations. Hovering allows us to see the origin and destination pairs for all pairs of BART station. From a quick glance, it is evident that San Francisco stations have the heaviest traffic. It is a little cluttered so the next chord diagram gives a clear picture by aggregating the stations into various clusters. We see that the most popular destination by far is  San Francisco to San Francisco (staying within San Francisco BART stations) and others include San Francisco to Millbrae-Daly City (includes SFO Airport), San Francisco to Berkeley, as well as San Francisco to Fruitvale-Dublin/Pleasanton.
+
+</blockquote><br />
+
+<iframe id="igraph3" scrolling="no" style="border:none;" seamless="seamless" src="https://plot.ly/~ChrisDong/7.embed" height="1000" width="100%"></iframe>
+
+
+
+<h2 class = "writing">How has BART grown from 2001 to 2017 across individual BART stations?
+</h2>
+
+<blockquote>
+ Analyzing growth for different bart station might indicate where people choose to live or work across different years. The data is based on annual ridership from 2001 to 2017 for 46 stations. There are 3 stations, which do not have complete data for every year from 2001 to 2017, so we do not analyze them here. Among the remaining 43 stations, roughly speaking, there are 3 types of stations based on ridership trend.
+
+For the first type, the ridership decreases during the first few years. For all stations within this category, the ridership decreases for a few years before 2010, increases afterwards and then drops around year 2015. Another feature of this category is that the ridership after 2010 is eventually higher than ridership before 2010. After some investigation, the ridership drop around 2015 might be caused by low gas price. The second type is very similar with the first type station except that the ridership after 2010 is lower than ridership before 2010 on average. Apart from the first and second type stations, there are 3 stations, which have monotonically increasing trends of ridership.
+<br /><br />
+
+Looking at the growth from 2001 to 2017 for the 46 stations allows us to see the behavior across individual BART stations based on ridership exits. For example, we can easily identify the newer BART stations such as Warm Springs, West Dublin/Pleasanton, and Oakland International Airport. It is interesting to note that there is an overall dip in BART -- perhaps it is caused by the popularity and convenience of on-demand rides like Uber or Lyft. Overall, a sigmoid function seems to capture the overall trend for many of the BART stations. As a personal anecdote, I live close to Colma Station. The sharp decrease in ridership since 2003 may be related to the long wait times for BART as I commute everyday. For some stations like Embarcadero there is a general increasing trend while others like Hayward fluctuates quite heavily.
+
+
+</blockquote><br />
+
+								</section>
+
+						</div>
+					</div>
+					
+									</div>
+								</section>
+
+							</div>
+					</div>
+					
+			<!-- Footer Wrapper -->
+				<div id="footer-wrapper">
+					<footer id="footer" class="container">
+						<div class="row">
+							<div class="3u 12u(mobile)">
+
+								<!-- Links -->
+									<section>
+										<h2>Github Repository</h2>
+										<ul class="divided">
+											<li><a href="https://github.com/dongchris">Chris Dong</a></li>
+											<li><a href="https://github.com/cxu29">Chengcheng Xu</a></li>
+											<li><a href="https://github.com/dongchris/bart-data-visualization">Project Repository</a></li>
+										</ul>
+									</section>
+
+										<section>
+										<h2>Data Source</h2>
+										<ul class="divided">
+											<li><a href="https://www.bart.gov/about/reports/ridership">Ridership Reports</a></li>
+											<li><a href="https://www.kaggle.com/saulfuh/bart-ridership/data">Geographic Information</a></li>
+											<li><a href="https://www.bart.gov/sites/default/files/docs/Station_Names.xls">Station Mapping</a></li>
+										</ul>
+									</section>
+
+							</div>
+							
+
+							</div>
+						</div>
+						<div class="row">
+							<div class="12u">
+								<!-- <div id="copyright">
+									<ul class="menu">
+										<li>&copy; Untitled. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+									</ul>
+								</div> -->
+							</div>
+						</div>
+					</footer>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/skel-viewport.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
